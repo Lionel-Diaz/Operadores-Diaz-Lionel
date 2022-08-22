@@ -65,8 +65,8 @@ const producto6 = new Producto("barrita Olympic","energetica", "marroc", 120,"di
 const productos=[producto1, producto2, producto3, producto4, producto5, producto6];
 
 /* Llamamos a la funcion "stock_producto" */
-/* stock_producto()
- */
+stock_producto()
+
 /* metodos */
 console.log(productos);
 console.log(productos.join(" - "));
